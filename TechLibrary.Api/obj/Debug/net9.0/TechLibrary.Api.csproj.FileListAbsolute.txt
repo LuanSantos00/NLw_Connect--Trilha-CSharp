@@ -70,3 +70,10 @@ C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debu
 C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\TechLibrary.Exception.dll
 C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\TechLibrary.Communication.pdb
 C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\TechLibrary.Exception.pdb
+C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.sourcelink.json
+C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

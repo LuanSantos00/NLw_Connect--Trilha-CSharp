@@ -1,8 +1,24 @@
 [
   {
+    "ContainingType": "TechLibrary.Api.Controllers.LoginController",
+    "Method": "DoLogin",
+    "RelativePath": "Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TechLibrary.Communication.Requests.RequestLoginJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TechLibrary.Api.Controllers.UsersController",
-    "Method": "Create",
-    "RelativePath": "api/Users",
+    "Method": "Register",
+    "RelativePath": "Users",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
