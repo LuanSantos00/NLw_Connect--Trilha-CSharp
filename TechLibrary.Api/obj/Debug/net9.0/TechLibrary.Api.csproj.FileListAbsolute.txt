@@ -77,3 +77,6 @@ C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debu
 C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cliente\Desktop\Estudos\nlwConnect\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

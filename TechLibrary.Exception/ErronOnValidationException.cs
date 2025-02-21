@@ -5,7 +5,7 @@ namespace TechLibrary.Exception
     public class ErronOnValidationException : TechLibraryException
     {
         private readonly List<string> _errors;
-        public ErronOnValidationException(List<string> errorMessages)
+        public ErronOnValidationException(List<string> errorMessages) : base(string.Empty)
         {
             _errors = errorMessages;
         }
